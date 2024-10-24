@@ -1,1 +1,2 @@
 fauria/vsftpd
+atmoz/sftp
