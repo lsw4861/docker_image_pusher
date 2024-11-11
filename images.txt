@@ -1,3 +1,1 @@
-fauria/vsftpd
-atmoz/sftp
 golang:alpine
