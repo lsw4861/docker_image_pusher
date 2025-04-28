@@ -1,1 +1,1 @@
-golang:alpine
+faceedge01/zhian_edge_ai_sdk:BE3V101
